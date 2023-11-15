@@ -1,0 +1,26 @@
+{
+  "name": "stylebase",
+  "version": "1.0.0",
+  "description": "A set of starter styles and tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voyagerstudio/stylebase.git"
+  },
+  "keywords": [
+    "CSS",
+    "Design",
+    "System",
+    "Tokens",
+    "Reset"
+  ],
+  "author": "Taurean Bryant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voyagerstudio/stylebase/issues"
+  },
+  "homepage": "https://github.com/voyagerstudio/stylebase#readme"
+}
