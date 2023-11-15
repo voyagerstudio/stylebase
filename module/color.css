@@ -111,7 +111,7 @@
   --hue-lightBlue-800: oklch(39.84% 0.09 210);
   --hue-lightBlue-900: oklch(29.1% 0.07 210);
   --hue-lightBlue-950: oklch(18.16% 0.04 210);
-  --hue-blue-50: oklch(18.16% 0.04 210);
+  --hue-blue-50: oklch(98.83% 0.005 240);
   --hue-blue-100: oklch(96.48% 0.02 240);
   --hue-blue-200: oklch(91.6% 0.04 240);
   --hue-blue-300: oklch(84.96% 0.08 240);
@@ -143,7 +143,7 @@
   --hue-violet-700: oklch(52.93% 0.12 280);
   --hue-violet-800: oklch(41.6% 0.09 280);
   --hue-violet-900: oklch(30.47% 0.07 280);
-  --hue-violet-950: oklch(98.83% 0.005 280);
+  --hue-violet-950: oklch(19.34% 0.04 280);
   --hue-purple-50: oklch(98.83% 0.005 300);
   --hue-purple-100: oklch(96.68% 0.02 300);
   --hue-purple-200: oklch(92.19% 0.04 300);
@@ -154,7 +154,7 @@
   --hue-purple-700: oklch(53.32% 0.12 300);
   --hue-purple-800: oklch(41.8% 0.09 300);
   --hue-purple-900: oklch(30.66% 0.07 300);
-  --hue-purple-950: oklch(30.66% 0.07 300);
+  --hue-purple-950: oklch(19.53% 0.04 300);
   --hue-fuschia-50: oklch(98.83% 0.005 320);
   --hue-fuschia-100: oklch(96.68% 0.02 320);
   --hue-fuschia-200: oklch(92.19% 0.04 320);
@@ -164,7 +164,7 @@
   --hue-fuschia-600: oklch(62.7% 0.14 320);
   --hue-fuschia-700: oklch(53.52% 0.12 320);
   --hue-fuschia-800: oklch(41.99% 0.09 320);
-  --hue-fuschia-900: oklch(41.99% 0.09 320);
+  --hue-fuschia-900: oklch(30.86% 0.07 320);
   --hue-fuschia-950: oklch(19.53% 0.04 320);
   --hue-pink-50: oklch(98.83% 0.005 340);
   --hue-pink-100: oklch(96.68% 0.02 340);
