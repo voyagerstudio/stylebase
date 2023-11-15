@@ -1,27 +1,39 @@
-/* @link https://utopia.fyi/type/calculator?c=320,12,1.067,1440,20,1.2,6,3,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,14 */
+/* @link https://utopia.fyi/type/calculator?c=320,14,1.125,1440,18,1.25,10,5,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,14 */
 :root {
-  /* Step -3: 9.88px → 11.57px */
-  --step--3: clamp(0.62rem, calc(0.59rem + 0.15vw), 0.72rem);
-  /* Step -2: 10.54px → 13.89px */
-  --step--2: clamp(0.66rem, calc(0.6rem + 0.3vw), 0.87rem);
-  /* Step -1: 11.25px → 16.67px */
-  --step--1: clamp(0.7rem, calc(0.61rem + 0.48vw), 1.04rem);
-  /* Step 0: 12.00px → 20.00px */
-  --step-0: clamp(0.75rem, calc(0.61rem + 0.71vw), 1.25rem);
-  /* Step 1: 12.80px → 24.00px */
-  --step-1: clamp(0.8rem, calc(0.6rem + 1vw), 1.5rem);
-  /* Step 2: 13.66px → 28.80px */
-  --step-2: clamp(0.85rem, calc(0.58rem + 1.35vw), 1.8rem);
-  /* Step 3: 14.58px → 34.56px */
-  --step-3: clamp(0.91rem, calc(0.55rem + 1.78vw), 2.16rem);
-  /* Step 4: 15.55px → 41.47px */
-  --step-4: clamp(0.97rem, calc(0.51rem + 2.31vw), 2.59rem);
-  /* Step 5: 16.60px → 49.77px */
-  --step-5: clamp(1.04rem, calc(0.45rem + 2.96vw), 3.11rem);
-  /* Step 6: 17.71px → 59.72px */
-  --step-6: clamp(1.11rem, calc(0.36rem + 3.75vw), 3.73rem);
+  /* Step -5: 7.77px → 5.90px */
+  --step--5: clamp(0.3688rem, 0.519rem + -0.167vw, 0.4856rem);
+  /* Step -4: 8.74px → 7.37px */
+  --step--4: clamp(0.4606rem, 0.5707rem + -0.1223vw, 0.5463rem);
+  /* Step -3: 9.83px → 9.22px */
+  --step--3: clamp(0.5763rem, 0.6253rem + -0.0545vw, 0.6144rem);
+  /* Step -2: 11.06px → 11.52px */
+  --step--2: clamp(0.6913rem, 0.683rem + 0.0411vw, 0.72rem);
+  /* Step -1: 12.44px → 14.40px */
+  --step--1: clamp(0.7775rem, 0.7425rem + 0.175vw, 0.9rem);
+  /* Step 0: 14.00px → 18.00px */
+  --step-0: clamp(0.875rem, 0.8036rem + 0.3571vw, 1.125rem);
+  /* Step 1: 15.75px → 22.50px */
+  --step-1: clamp(0.9844rem, 0.8638rem + 0.6027vw, 1.4063rem);
+  /* Step 2: 17.72px → 28.13px */
+  --step-2: clamp(1.1075rem, 0.9216rem + 0.9295vw, 1.7581rem);
+  /* Step 3: 19.93px → 35.16px */
+  --step-3: clamp(1.2456rem, 0.9737rem + 1.3598vw, 2.1975rem);
+  /* Step 4: 22.43px → 43.95px */
+  --step-4: clamp(1.4019rem, 1.0176rem + 1.9214vw, 2.7469rem);
+  /* Step 5: 25.23px → 54.93px */
+  --step-5: clamp(1.5769rem, 1.0465rem + 2.6518vw, 3.4331rem);
+  /* Step 6: 28.38px → 68.66px */
+  --step-6: clamp(1.7738rem, 1.0545rem + 3.5964vw, 4.2913rem);
+  /* Step 7: 31.93px → 85.83px */
+  --step-7: clamp(1.9956rem, 1.0331rem + 4.8125vw, 5.3644rem);
+  /* Step 8: 35.92px → 107.29px */
+  --step-8: clamp(2.245rem, 0.9705rem + 6.3723vw, 6.7056rem);
+  /* Step 9: 40.41px → 134.11px */
+  --step-9: clamp(2.5256rem, 0.8524rem + 8.3661vw, 8.3819rem);
+  /* Step 10: 45.46px → 167.64px */
+  --step-10: clamp(2.8413rem, 0.6595rem + 10.9089vw, 10.4775rem);
 }
 :root {
-  --font-serif: "serif";
-  --font-sans-serif: "sans-serif";
+  --font-serif: Georgia, "Times New Roman", Times, serif;
+  --font-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
