@@ -43,5 +43,5 @@
 
 :root {
   --font-serif: Georgia, "Times New Roman", Times, serif;
-  --font-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-sans-serif: BlinkMacSystemFont, -apple-system, "Roboto", "Droid Sans", "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
