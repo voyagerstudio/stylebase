@@ -14,3 +14,7 @@
   white-space: nowrap;
   right: 0;
 }
+
+[hidden] {
+  display: none;
+}
