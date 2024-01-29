@@ -9,7 +9,7 @@ utility - reused classes that perform a specific design pattern
 
 
 */
-@layer reset, token, utility;
+@layer token, utility, reset;
 @import "./module/accessibility.css" layer(utility);
 @import "./module/borderRadius.css" layer(token);
 @import "./module/color.css" layer(token);
