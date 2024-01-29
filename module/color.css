@@ -1,5 +1,8 @@
 /* @link https://www.figma.com/community/file/1287828769207775946/harmony-accessible-ui-color-palette */
 :root {
+  /* utilities */
+  --hue-util-white: oklch(100% 0 0);
+  --hue-util-black: oklch(0% 0 0);
   /* primatives */
   --hue-red-50: oklch(98.83% 0.005 20);
   --hue-red-100: oklch(96.68% 0.02 20);
