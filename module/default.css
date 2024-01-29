@@ -23,6 +23,8 @@ html:focus-within {
 html,
 body {
   height: 100%;
+  font-family: BlinkMacSystemFont, -apple-system, "Roboto", "Droid Sans", "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: var(--step-0);
 }
 body {
   line-height: 1.5;
@@ -100,9 +102,4 @@ table {
   height: 100%;
   display: grid;
   grid-template-rows: 1fr;
-}
-body {
-  font-family: BlinkMacSystemFont, -apple-system, "Roboto", "Droid Sans",
-    "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: var(--step-0);
 }
